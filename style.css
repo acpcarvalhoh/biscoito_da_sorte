@@ -62,7 +62,7 @@ main p{
 @keyframes downtop{
     0%{
         opacity: 0;
-        transform: translateY(60px);
+        transform: translateY(-60px);
     }
 
     100%{
