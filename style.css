@@ -91,7 +91,7 @@ main p{
     box-shadow: 2px 2px 2px rgba(85, 85, 85, 0.5);
     padding: 1rem;
     margin-bottom: 5rem;
-    animation: downtop 1.7s ease-in-out, animation-width 1.7s ease-in-out;
+    animation: animation-scale 1.7s ease-in-out;
 }
 
 .secondScreen button{
@@ -111,24 +111,15 @@ main p{
 }
 
 /* Animações SecondScreen */
-@keyframes downtop{
-    0%{
-        opacity: 1;
-        transform: translateY(80px);
+@keyframes animation-scale {
+    0% {
+        transform: translateY(150px)
+        scale(0.1);
     }
-
-    100%{
-        opacity: 1;
-        transform: translateY(0);
+  
+    100% {
+        transform: translateY(0px)
+        scale(1);
     }
 }
-
-@keyframes animation-width {
-    from {
-      width: 10px;
-    }
-    to {
-      width: 100%;
-    }
-  }
 
