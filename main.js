@@ -55,7 +55,7 @@ function handleResetCookie(){
 }
 
 function randomPhrase(){
-    let randomIndex = Math.floor(Math.random() * luckyPhrases.length);
+    const randomIndex = Math.floor(Math.random() * luckyPhrases.length);
     const drawnPhrase = luckyPhrases[randomIndex].phrase;
     luckyPhrase.innerHTML = drawnPhrase
 }
