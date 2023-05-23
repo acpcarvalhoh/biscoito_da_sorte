@@ -40,24 +40,33 @@ const luckyPhrases = [
 /* Eventos */
 cookie.addEventListener('click', openCookie)
 resetCookie.addEventListener('click', handleResetCookie)
+document.addEventListener('keydown', Enter)
 
 
-/* Funcões */
+/* Funções */
 function openCookie(){
     toogleScreen()
     randomPhrase()
 }
 
 function handleResetCookie(){
-    toogleScreen()
+   toogleScreen()
+   
 }
 
 function randomPhrase(){
-    const randomIndex = Math.floor(Math.random() * luckyPhrases.length);
+    let randomIndex = Math.floor(Math.random() * luckyPhrases.length);
     const drawnPhrase = luckyPhrases[randomIndex].phrase;
     luckyPhrase.innerHTML = drawnPhrase
+}
 
-    console.log(randomIndex)
+function Enter(event){
+    if(event.key == 'Enter' && secondScreen.classList.contains('hidden')){
+        openCookie()
+    }else if(event.key == 'Enter' && firstScreen.classList.contains('hidden')){
+        handleResetCookie()
+    }
+    
 }
 
 function toogleScreen(){
