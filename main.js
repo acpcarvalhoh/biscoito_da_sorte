@@ -53,11 +53,9 @@ function handleResetCookie(){
 }
 
 function randomPhrase(){
-    const indiceAleatorio = Math.floor(Math.random() * luckyPhrases.length);
-    const fraseSorteada = luckyPhrases[indiceAleatorio];
-    const frase = fraseSorteada.phrase;
-
-    luckyPhrase.innerHTML = frase
+    const randomIndex = Math.floor(Math.random() * luckyPhrases.length);
+    const drawnPhrase = luckyPhrases[randomIndex].phrase;
+    luckyPhrase.innerHTML = drawnPhrase
 }
 
 function toogleScreen(){

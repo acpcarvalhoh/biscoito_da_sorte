@@ -46,17 +46,15 @@ main p{
     display: none;
 }
 
+
 /* Animações firstScreen */
 .firstScreen img{
     animation: downtop 900ms;
     transition-delay: 900ms;
-    
-    
 }
 
 .firstScreen img:hover{
     animation: shake 0.1s infinite;
-    
 }
 
 @keyframes downtop{
