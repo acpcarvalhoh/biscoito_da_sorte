@@ -56,6 +56,8 @@ function randomPhrase(){
     const randomIndex = Math.floor(Math.random() * luckyPhrases.length);
     const drawnPhrase = luckyPhrases[randomIndex].phrase;
     luckyPhrase.innerHTML = drawnPhrase
+
+    console.log(randomIndex)
 }
 
 function toogleScreen(){
