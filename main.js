@@ -51,7 +51,6 @@ function openCookie(){
 
 function handleResetCookie(){
    toogleScreen()
-   
 }
 
 function randomPhrase(){
