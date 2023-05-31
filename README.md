@@ -1,9 +1,5 @@
 # <h1 align="center">Biscoito da sorte</h1>
-Este projeto é um simples aplicativo web que exibe frases aleatórias inspiradoras semelhantes às mensagens encontradas em biscoitos da sorte. O objetivo é proporcionar momentos de reflexão e motivação para os usuários, além de servir para o meu aprendizado no desenvolvimento web
-
-# Biscoito da Sorte
-
-Este projeto é um simples aplicativo web que exibe frases aleatórias inspiradoras semelhantes às mensagens encontradas em biscoitos da sorte. O objetivo é proporcionar momentos de reflexão e motivação para os usuários.
+Este projeto é um simples aplicativo web que exibe frases aleatórias inspiradoras semelhantes às mensagens encontradas em biscoitos da sorte. O objetivo é proporcionar momentos de reflexão e motivação para os usuários, além de servir para o meu aprendizado no desenvolvimento web.
 
 ## Demonstração
 
