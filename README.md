@@ -3,7 +3,7 @@ Este projeto é um simples aplicativo web que exibe frases aleatórias inspirado
 
 ## Demonstração
 
-Você pode ver uma demonstração do projeto acessando [este link](https://acpcarvalhoh.github.io/biscoito_da_sorte/).
+Você pode ver uma demonstração do projeto acessando [Biscoito da Sorte](https://acpcarvalhoh.github.io/biscoito_da_sorte/).
 
 ## Tecnologias Utilizadas
 
@@ -68,11 +68,10 @@ Este projeto está licenciado sob a [MIT License](https://github.com/acpcarvalho
 
 ## Créditos
 
-- Este projeto foi desenvolvido por [seu nome](https://github.com/seu-usuario).
-- A lista de frases inspiradoras foi obtida em [exemplo.com](https://exemplo.com).
+- Este projeto foi desenvolvido por [Adão Carvalho](https://github.com/acpcarvalhoh).
 
 ## Suporte
 
-Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato comigo pelo e-mail [seu-email@example.com](mailto:seu-email@example.com).
+Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato comigo pelo e-mail [carvalhohuzumak@gmail.com](mailto:carvalhohuzumak@gmail.com).
 
 Espero que este README forneça todas as informações necessárias para entender e utilizar o projeto. Sinta-se à vontade para personalizá-lo de acordo com as necessidades do seu projeto específico.
