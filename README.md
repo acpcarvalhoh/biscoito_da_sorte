@@ -64,7 +64,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/acpcarvalho
 
 ## Créditos
 
-- Este projeto foi desenvolvido por [Adão Carvalho](https://github.com/seu-usuario).
+- Este projeto foi desenvolvido por [Adão Carvalho](https://github.com/acpcarvalhoh).
 
 ## Suporte
 
