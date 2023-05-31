@@ -2,7 +2,7 @@
 Este projeto é um simples aplicativo web que exibe frases aleatórias inspiradoras semelhantes às mensagens encontradas em biscoitos da sorte. O objetivo é proporcionar momentos de reflexão e motivação para os usuários, além de servir para o meu aprendizado no desenvolvimento web.
 
 <p align="center">
-  <h2>Demonstração</h2>
+  <h2 align="center>Demonstração</h2>
   Você pode ver uma demonstração do projeto acessando [Biscoito da Sorte](https://acpcarvalhoh.github.io/biscoito_da_sorte/).
 </p>
 
