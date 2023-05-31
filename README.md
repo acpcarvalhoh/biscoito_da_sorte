@@ -64,8 +64,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/acpcarvalho
 
 ## Créditos
 
-- Este projeto foi desenvolvido por [seu nome](https://github.com/seu-usuario).
-- A lista de frases inspiradoras foi obtida em [exemplo.com](https://exemplo.com).
+- Este projeto foi desenvolvido por [seu nome][(https://github.com/seu-usuario)].
 
 ## Suporte
 
