@@ -68,6 +68,6 @@ Este projeto está licenciado sob a [MIT License](https://github.com/acpcarvalho
 
 ## Suporte
 
-Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato comigo pelo e-mail [acpcarvalhoh](mailto:carvalhohuzumak@gmail.com).
+Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato comigo pelo e-mail [carvalhohuzumak@gmail.com](mailto:carvalhohuzumak@gmail.com).
 
 Espero que este README forneça todas as informações necessárias para entender e utilizar o projeto. Sinta-se à vontade para personalizá-lo de acordo com as necessidades do seu projeto específico.
