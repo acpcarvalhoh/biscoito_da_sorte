@@ -3,7 +3,7 @@ Este projeto é um simples aplicativo web que exibe frases aleatórias inspirado
 
 ## Demonstração
 
-Você pode ver uma demonstração do projeto acessando[Biscoito da Sorte] (https://acpcarvalhoh.github.io/biscoito_da_sorte/).
+Você pode ver uma demonstração do projeto acessando[Biscoito da Sorte](https://acpcarvalhoh.github.io/biscoito_da_sorte/).
 
 - ![Exemplo de imagem](assets/page_one.png)
 
